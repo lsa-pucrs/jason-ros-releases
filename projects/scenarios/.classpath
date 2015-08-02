@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/home/viki/git/meneguzzi/Jason-1.4.0a/lib/c4jason.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/viki/git/meneguzzi/Jason-1.4.0a/lib/cartago.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/actionlib_msgs-1.10.2.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/apache_xmlrpc_client-0.1.4.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/apache_xmlrpc_common-0.1.4.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/apache_xmlrpc_server-0.1.4.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/com.springsource.org.apache.commons.codec-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/com.springsource.org.apache.commons.httpclient-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/com.springsource.org.apache.commons.io-1.4.0.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/com.springsource.org.apache.commons.lang-2.4.0.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/com.springsource.org.apache.commons.net-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/dnsjava-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/geometry_msgs-1.10.2.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/gradle_plugins-0.1.8.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/guava-12.0.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/junit-3.8.2.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/message_generation-0.1.8.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/nav_msgs-1.10.2.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/netty-3.5.2.Final.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/rosgraph_msgs-1.9.50.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/rosjava-0.1.4.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/rosjava_bootstrap-0.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/rosjava_foo-0.1.3-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/rosjava_jason-0.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/rosjava_messages-0.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/rosjava_test_msgs-0.1.27.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/std_msgs-0.5.8.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/tf2_msgs-0.4.7.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/ws-commons-util-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/kobuki_msgs-0.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/perception_msgs-0.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/rosjava_tutorial_services-0.1.6.jar"/>
+	<classpathentry kind="lib" path="/home/viki/git/meneguzzi/projects/rosjava/rosjason-0.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
